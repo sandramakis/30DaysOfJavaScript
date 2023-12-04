@@ -1,13 +1,13 @@
-<h1 align="center">I built 30 Projects with VanillaJS</h1>
+<h1 align="center">30 Projects with VanillaJS</h1>
 <h3 align="center">The project ideas and courses were from Wes Bos's #Javascript30</h3>
 
 <h5 align="left">Day 1</h5>
 <p>JavaScript Drumkit</p>
-<a href="https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer"></a>
+<p><a href="https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer"></a></p>
 
 <h5 align="left">Day 1</h5>
 <p>JavaScript Drumkit</p>
-<a href="https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer"></a>
+<p><a href="https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer"></a></p>
 
 <h5 align="left">Day 2</h5>
 <p>CSS + JS Clock</p>
