@@ -3,19 +3,15 @@
 
 <h5 align="left">Day 1</h5>
 <p>JavaScript Drumkit</p>
-<p><a href="https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer"></a></p>
-
-<h5 align="left">Day 1</h5>
-<p>JavaScript Drumkit</p>
-<p><a href="https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer"></a></p>
+[link](https://github.com/sandramakis/drumkit" target="_blank" rel="noreferrer)
 
 <h5 align="left">Day 2</h5>
 <p>CSS + JS Clock</p>
-<a href="https://github.com/sandramakis/css.js.clock" target="_blank" rel="noreferrer"></a>
+[link](https://github.com/sandramakis/css.js.clock)
 
 <h5 align="left">Day 3</h5>
 <p>Playing with CSS variables and JS</p>
-<a href="https://github.com/sandramakis/css.variables-js" target="_blank" rel="noreferrer"></a>
+[link](https://github.com/sandramakis/css.variables-js)
 
 <h5 align="left">Day 4</h5>
 <p>Array Cardio Day 1</p>
